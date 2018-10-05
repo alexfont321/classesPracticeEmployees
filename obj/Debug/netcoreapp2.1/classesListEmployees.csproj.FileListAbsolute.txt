@@ -1,0 +1,11 @@
+/Users/alejandro/Workspace/csharp/exercises/classesListEmployees/bin/Debug/netcoreapp2.1/classesListEmployees.deps.json
+/Users/alejandro/Workspace/csharp/exercises/classesListEmployees/bin/Debug/netcoreapp2.1/classesListEmployees.runtimeconfig.json
+/Users/alejandro/Workspace/csharp/exercises/classesListEmployees/bin/Debug/netcoreapp2.1/classesListEmployees.runtimeconfig.dev.json
+/Users/alejandro/Workspace/csharp/exercises/classesListEmployees/bin/Debug/netcoreapp2.1/classesListEmployees.dll
+/Users/alejandro/Workspace/csharp/exercises/classesListEmployees/bin/Debug/netcoreapp2.1/classesListEmployees.pdb
+/Users/alejandro/Workspace/csharp/exercises/classesListEmployees/obj/Debug/netcoreapp2.1/classesListEmployees.csprojAssemblyReference.cache
+/Users/alejandro/Workspace/csharp/exercises/classesListEmployees/obj/Debug/netcoreapp2.1/classesListEmployees.csproj.CoreCompileInputs.cache
+/Users/alejandro/Workspace/csharp/exercises/classesListEmployees/obj/Debug/netcoreapp2.1/classesListEmployees.AssemblyInfoInputs.cache
+/Users/alejandro/Workspace/csharp/exercises/classesListEmployees/obj/Debug/netcoreapp2.1/classesListEmployees.AssemblyInfo.cs
+/Users/alejandro/Workspace/csharp/exercises/classesListEmployees/obj/Debug/netcoreapp2.1/classesListEmployees.dll
+/Users/alejandro/Workspace/csharp/exercises/classesListEmployees/obj/Debug/netcoreapp2.1/classesListEmployees.pdb
